@@ -13,7 +13,7 @@
   <TextPortraitSize>100</TextPortraitSize>
   <TextLandscapeSize>100</TextLandscapeSize>
   <RepeatAlertCount>0</RepeatAlertCount>
-  <DashName>Phaeton Dials</DashName>
+  <DashName>Dial layout for iPad Gen 3</DashName>
   <IsLandscape>true</IsLandscape>
   <IsAbsoluteLayout>true</IsAbsoluteLayout>
   <ScrollGauges>false</ScrollGauges>
@@ -40,7 +40,7 @@
   <ShowDrivingAlert>false</ShowDrivingAlert>
   <ShowVisibleAlert>false</ShowVisibleAlert>
   <AlertCount>1</AlertCount>
-  <Notes />
+  <Notes>This is a layout for an iPad Gen 3 using mainly dial gauges where applicable.</Notes>
   <SelectedTexts>
     <int>36</int>
     <int>13</int>
@@ -250,10 +250,10 @@
       <MarginBottom>5</MarginBottom>
       <PortraitSize>0</PortraitSize>
       <LandscapeSize>0</LandscapeSize>
-      <AbsoluteXPortrait>-999</AbsoluteXPortrait>
-      <AbsoluteYPortrait>-999</AbsoluteYPortrait>
+      <AbsoluteXPortrait>782</AbsoluteXPortrait>
+      <AbsoluteYPortrait>612</AbsoluteYPortrait>
       <AbsoluteXLandscape>782</AbsoluteXLandscape>
-      <AbsoluteYLandscape>612</AbsoluteYLandscape>
+      <AbsoluteYLandscape>614</AbsoluteYLandscape>
       <GaugePercent>100</GaugePercent>
       <GaugeWidth>200</GaugeWidth>
       <GaugeHeight>100</GaugeHeight>
@@ -264,7 +264,7 @@
       <ConvertToAbsolute>false</ConvertToAbsolute>
       <Notes />
       <AbsoluteX>782</AbsoluteX>
-      <AbsoluteY>612</AbsoluteY>
+      <AbsoluteY>614</AbsoluteY>
     </TextParameter>
     <TextParameter>
       <TypeId>3</TypeId>
@@ -304,8 +304,8 @@
       <MarginBottom>5</MarginBottom>
       <PortraitSize>0</PortraitSize>
       <LandscapeSize>0</LandscapeSize>
-      <AbsoluteXPortrait>-999</AbsoluteXPortrait>
-      <AbsoluteYPortrait>-999</AbsoluteYPortrait>
+      <AbsoluteXPortrait>20</AbsoluteXPortrait>
+      <AbsoluteYPortrait>614</AbsoluteYPortrait>
       <AbsoluteXLandscape>20</AbsoluteXLandscape>
       <AbsoluteYLandscape>614</AbsoluteYLandscape>
       <GaugePercent>100</GaugePercent>
@@ -358,8 +358,8 @@
       <MarginBottom>5</MarginBottom>
       <PortraitSize>0</PortraitSize>
       <LandscapeSize>0</LandscapeSize>
-      <AbsoluteXPortrait>-999</AbsoluteXPortrait>
-      <AbsoluteYPortrait>-999</AbsoluteYPortrait>
+      <AbsoluteXPortrait>350</AbsoluteXPortrait>
+      <AbsoluteYPortrait>614</AbsoluteYPortrait>
       <AbsoluteXLandscape>350</AbsoluteXLandscape>
       <AbsoluteYLandscape>614</AbsoluteYLandscape>
       <GaugePercent>100</GaugePercent>
@@ -412,10 +412,10 @@
       <MarginBottom>5</MarginBottom>
       <PortraitSize>0</PortraitSize>
       <LandscapeSize>0</LandscapeSize>
-      <AbsoluteXPortrait>-999</AbsoluteXPortrait>
-      <AbsoluteYPortrait>-999</AbsoluteYPortrait>
-      <AbsoluteXLandscape>608</AbsoluteXLandscape>
-      <AbsoluteYLandscape>613</AbsoluteYLandscape>
+      <AbsoluteXPortrait>608</AbsoluteXPortrait>
+      <AbsoluteYPortrait>613</AbsoluteYPortrait>
+      <AbsoluteXLandscape>478</AbsoluteXLandscape>
+      <AbsoluteYLandscape>614</AbsoluteYLandscape>
       <GaugePercent>100</GaugePercent>
       <GaugeWidth>170</GaugeWidth>
       <GaugeHeight>100</GaugeHeight>
@@ -425,8 +425,8 @@
       <ScreenHeight>768</ScreenHeight>
       <ConvertToAbsolute>false</ConvertToAbsolute>
       <Notes />
-      <AbsoluteX>608</AbsoluteX>
-      <AbsoluteY>613</AbsoluteY>
+      <AbsoluteX>478</AbsoluteX>
+      <AbsoluteY>614</AbsoluteY>
     </TextParameter>
     <TextParameter>
       <TypeId>6</TypeId>
@@ -466,10 +466,10 @@
       <MarginBottom>5</MarginBottom>
       <PortraitSize>0</PortraitSize>
       <LandscapeSize>0</LandscapeSize>
-      <AbsoluteXPortrait>-999</AbsoluteXPortrait>
-      <AbsoluteYPortrait>-999</AbsoluteYPortrait>
+      <AbsoluteXPortrait>326</AbsoluteXPortrait>
+      <AbsoluteYPortrait>494</AbsoluteYPortrait>
       <AbsoluteXLandscape>326</AbsoluteXLandscape>
-      <AbsoluteYLandscape>494</AbsoluteYLandscape>
+      <AbsoluteYLandscape>495</AbsoluteYLandscape>
       <GaugePercent>150</GaugePercent>
       <GaugeWidth>230</GaugeWidth>
       <GaugeHeight>105</GaugeHeight>
@@ -480,7 +480,7 @@
       <ConvertToAbsolute>false</ConvertToAbsolute>
       <Notes />
       <AbsoluteX>326</AbsoluteX>
-      <AbsoluteY>494</AbsoluteY>
+      <AbsoluteY>495</AbsoluteY>
     </TextParameter>
     <TextParameter>
       <TypeId>7</TypeId>
@@ -490,7 +490,7 @@
       <IsRequestPid>false</IsRequestPid>
       <IsTextOnly>false</IsTextOnly>
       <IsIconOnly>true</IsIconOnly>
-      <Name>Cruise</Name>
+      <Name />
       <DefaultValue>0</DefaultValue>
       <GaugeName />
       <ShowUM>true</ShowUM>
@@ -520,10 +520,10 @@
       <MarginBottom>0</MarginBottom>
       <PortraitSize>0</PortraitSize>
       <LandscapeSize>0</LandscapeSize>
-      <AbsoluteXPortrait>-999</AbsoluteXPortrait>
-      <AbsoluteYPortrait>-999</AbsoluteYPortrait>
-      <AbsoluteXLandscape>561</AbsoluteXLandscape>
-      <AbsoluteYLandscape>493</AbsoluteYLandscape>
+      <AbsoluteXPortrait>561</AbsoluteXPortrait>
+      <AbsoluteYPortrait>493</AbsoluteYPortrait>
+      <AbsoluteXLandscape>562</AbsoluteXLandscape>
+      <AbsoluteYLandscape>495</AbsoluteYLandscape>
       <GaugePercent>100</GaugePercent>
       <GaugeWidth>200</GaugeWidth>
       <GaugeHeight>105</GaugeHeight>
@@ -533,8 +533,8 @@
       <ScreenHeight>768</ScreenHeight>
       <ConvertToAbsolute>false</ConvertToAbsolute>
       <Notes />
-      <AbsoluteX>561</AbsoluteX>
-      <AbsoluteY>493</AbsoluteY>
+      <AbsoluteX>562</AbsoluteX>
+      <AbsoluteY>495</AbsoluteY>
     </TextParameter>
     <TextParameter>
       <TypeId>8</TypeId>
@@ -574,8 +574,8 @@
       <MarginBottom>5</MarginBottom>
       <PortraitSize>0</PortraitSize>
       <LandscapeSize>0</LandscapeSize>
-      <AbsoluteXPortrait>-999</AbsoluteXPortrait>
-      <AbsoluteYPortrait>-999</AbsoluteYPortrait>
+      <AbsoluteXPortrait>123</AbsoluteXPortrait>
+      <AbsoluteYPortrait>495</AbsoluteYPortrait>
       <AbsoluteXLandscape>123</AbsoluteXLandscape>
       <AbsoluteYLandscape>495</AbsoluteYLandscape>
       <GaugePercent>150</GaugePercent>
@@ -628,8 +628,8 @@
       <MarginBottom>0</MarginBottom>
       <PortraitSize>0</PortraitSize>
       <LandscapeSize>0</LandscapeSize>
-      <AbsoluteXPortrait>-999</AbsoluteXPortrait>
-      <AbsoluteYPortrait>-999</AbsoluteYPortrait>
+      <AbsoluteXPortrait>19</AbsoluteXPortrait>
+      <AbsoluteYPortrait>495</AbsoluteYPortrait>
       <AbsoluteXLandscape>19</AbsoluteXLandscape>
       <AbsoluteYLandscape>495</AbsoluteYLandscape>
       <GaugePercent>275</GaugePercent>
@@ -790,9 +790,9 @@
       <MarginBottom>5</MarginBottom>
       <PortraitSize>0</PortraitSize>
       <LandscapeSize>0</LandscapeSize>
-      <AbsoluteXPortrait>-999</AbsoluteXPortrait>
-      <AbsoluteYPortrait>-999</AbsoluteYPortrait>
-      <AbsoluteXLandscape>479</AbsoluteXLandscape>
+      <AbsoluteXPortrait>479</AbsoluteXPortrait>
+      <AbsoluteYPortrait>614</AbsoluteYPortrait>
+      <AbsoluteXLandscape>652</AbsoluteXLandscape>
       <AbsoluteYLandscape>614</AbsoluteYLandscape>
       <GaugePercent>100</GaugePercent>
       <GaugeWidth>125</GaugeWidth>
@@ -803,7 +803,7 @@
       <ScreenHeight>768</ScreenHeight>
       <ConvertToAbsolute>false</ConvertToAbsolute>
       <Notes />
-      <AbsoluteX>479</AbsoluteX>
+      <AbsoluteX>652</AbsoluteX>
       <AbsoluteY>614</AbsoluteY>
     </TextParameter>
     <TextParameter>
@@ -844,8 +844,8 @@
       <MarginBottom>5</MarginBottom>
       <PortraitSize>0</PortraitSize>
       <LandscapeSize>0</LandscapeSize>
-      <AbsoluteXPortrait>-999</AbsoluteXPortrait>
-      <AbsoluteYPortrait>-999</AbsoluteYPortrait>
+      <AbsoluteXPortrait>573</AbsoluteXPortrait>
+      <AbsoluteYPortrait>593</AbsoluteYPortrait>
       <AbsoluteXLandscape>573</AbsoluteXLandscape>
       <AbsoluteYLandscape>593</AbsoluteYLandscape>
       <GaugePercent>150</GaugePercent>
@@ -855,7 +855,7 @@
       <ActualHeight>105</ActualHeight>
       <ScreenWidth>1024</ScreenWidth>
       <ScreenHeight>768</ScreenHeight>
-      <ConvertToAbsolute>false</ConvertToAbsolute>
+      <ConvertToAbsolute>true</ConvertToAbsolute>
       <Notes />
       <AbsoluteX>573</AbsoluteX>
       <AbsoluteY>593</AbsoluteY>
@@ -1492,8 +1492,8 @@
       <MarginBottom>0</MarginBottom>
       <PortraitSize>0</PortraitSize>
       <LandscapeSize>0</LandscapeSize>
-      <AbsoluteXPortrait>-999</AbsoluteXPortrait>
-      <AbsoluteYPortrait>-999</AbsoluteYPortrait>
+      <AbsoluteXPortrait>928</AbsoluteXPortrait>
+      <AbsoluteYPortrait>718</AbsoluteYPortrait>
       <AbsoluteXLandscape>928</AbsoluteXLandscape>
       <AbsoluteYLandscape>718</AbsoluteYLandscape>
       <GaugePercent>50</GaugePercent>
@@ -2032,10 +2032,10 @@
       <MarginBottom>5</MarginBottom>
       <PortraitSize>0</PortraitSize>
       <LandscapeSize>0</LandscapeSize>
-      <AbsoluteXPortrait>-999</AbsoluteXPortrait>
-      <AbsoluteYPortrait>-999</AbsoluteYPortrait>
+      <AbsoluteXPortrait>767</AbsoluteXPortrait>
+      <AbsoluteYPortrait>492</AbsoluteYPortrait>
       <AbsoluteXLandscape>767</AbsoluteXLandscape>
-      <AbsoluteYLandscape>492</AbsoluteYLandscape>
+      <AbsoluteYLandscape>495</AbsoluteYLandscape>
       <GaugePercent>150</GaugePercent>
       <GaugeWidth>215</GaugeWidth>
       <GaugeHeight>105</GaugeHeight>
@@ -2046,7 +2046,7 @@
       <ConvertToAbsolute>false</ConvertToAbsolute>
       <Notes />
       <AbsoluteX>767</AbsoluteX>
-      <AbsoluteY>492</AbsoluteY>
+      <AbsoluteY>495</AbsoluteY>
     </TextParameter>
     <TextParameter>
       <TypeId>36</TypeId>
@@ -2194,8 +2194,8 @@
       <MarginBottom>5</MarginBottom>
       <PortraitSize>0</PortraitSize>
       <LandscapeSize>0</LandscapeSize>
-      <AbsoluteXPortrait>-999</AbsoluteXPortrait>
-      <AbsoluteYPortrait>-999</AbsoluteYPortrait>
+      <AbsoluteXPortrait>198</AbsoluteXPortrait>
+      <AbsoluteYPortrait>614</AbsoluteYPortrait>
       <AbsoluteXLandscape>198</AbsoluteXLandscape>
       <AbsoluteYLandscape>614</AbsoluteYLandscape>
       <GaugePercent>100</GaugePercent>
@@ -2372,13 +2372,13 @@
       <ActualHeight>240</ActualHeight>
       <ScreenWidth>1024</ScreenWidth>
       <ScreenHeight>768</ScreenHeight>
-      <AbsoluteXPortrait>10</AbsoluteXPortrait>
-      <AbsoluteYPortrait>4</AbsoluteYPortrait>
-      <AbsoluteXLandscape>20</AbsoluteXLandscape>
+      <AbsoluteXPortrait>20</AbsoluteXPortrait>
+      <AbsoluteYPortrait>0</AbsoluteYPortrait>
+      <AbsoluteXLandscape>10</AbsoluteXLandscape>
       <AbsoluteYLandscape>0</AbsoluteYLandscape>
       <ConvertToAbsolute>false</ConvertToAbsolute>
       <Notes />
-      <AbsoluteX>20</AbsoluteX>
+      <AbsoluteX>10</AbsoluteX>
       <AbsoluteY>0</AbsoluteY>
     </GaugeParameter>
     <GaugeParameter>
@@ -2436,11 +2436,11 @@
       <AbsoluteXPortrait>10</AbsoluteXPortrait>
       <AbsoluteYPortrait>247</AbsoluteYPortrait>
       <AbsoluteXLandscape>10</AbsoluteXLandscape>
-      <AbsoluteYLandscape>247</AbsoluteYLandscape>
+      <AbsoluteYLandscape>245</AbsoluteYLandscape>
       <ConvertToAbsolute>false</ConvertToAbsolute>
       <Notes />
       <AbsoluteX>10</AbsoluteX>
-      <AbsoluteY>247</AbsoluteY>
+      <AbsoluteY>245</AbsoluteY>
     </GaugeParameter>
     <GaugeParameter>
       <TypeId>2</TypeId>
@@ -2677,11 +2677,11 @@
       <ActualHeight>240</ActualHeight>
       <ScreenWidth>1024</ScreenWidth>
       <ScreenHeight>768</ScreenHeight>
-      <AbsoluteXPortrait>510</AbsoluteXPortrait>
-      <AbsoluteYPortrait>246</AbsoluteYPortrait>
+      <AbsoluteXPortrait>252</AbsoluteXPortrait>
+      <AbsoluteYPortrait>486</AbsoluteYPortrait>
       <AbsoluteXLandscape>252</AbsoluteXLandscape>
       <AbsoluteYLandscape>486</AbsoluteYLandscape>
-      <ConvertToAbsolute>false</ConvertToAbsolute>
+      <ConvertToAbsolute>true</ConvertToAbsolute>
       <Notes />
       <AbsoluteX>252</AbsoluteX>
       <AbsoluteY>486</AbsoluteY>
@@ -2738,13 +2738,13 @@
       <ActualHeight>240</ActualHeight>
       <ScreenWidth>1024</ScreenWidth>
       <ScreenHeight>768</ScreenHeight>
-      <AbsoluteXPortrait>-999</AbsoluteXPortrait>
-      <AbsoluteYPortrait>-999</AbsoluteYPortrait>
-      <AbsoluteXLandscape>518</AbsoluteXLandscape>
+      <AbsoluteXPortrait>518</AbsoluteXPortrait>
+      <AbsoluteYPortrait>245</AbsoluteYPortrait>
+      <AbsoluteXLandscape>522</AbsoluteXLandscape>
       <AbsoluteYLandscape>245</AbsoluteYLandscape>
       <ConvertToAbsolute>false</ConvertToAbsolute>
       <Notes />
-      <AbsoluteX>518</AbsoluteX>
+      <AbsoluteX>522</AbsoluteX>
       <AbsoluteY>245</AbsoluteY>
     </GaugeParameter>
     <GaugeParameter>
@@ -2862,12 +2862,12 @@
       <ScreenHeight>768</ScreenHeight>
       <AbsoluteXPortrait>266</AbsoluteXPortrait>
       <AbsoluteYPortrait>11</AbsoluteYPortrait>
-      <AbsoluteXLandscape>266</AbsoluteXLandscape>
-      <AbsoluteYLandscape>11</AbsoluteYLandscape>
+      <AbsoluteXLandscape>264</AbsoluteXLandscape>
+      <AbsoluteYLandscape>0</AbsoluteYLandscape>
       <ConvertToAbsolute>false</ConvertToAbsolute>
       <Notes />
-      <AbsoluteX>266</AbsoluteX>
-      <AbsoluteY>11</AbsoluteY>
+      <AbsoluteX>264</AbsoluteX>
+      <AbsoluteY>0</AbsoluteY>
     </GaugeParameter>
     <GaugeParameter>
       <TypeId>9</TypeId>
@@ -2984,12 +2984,12 @@
       <ScreenHeight>768</ScreenHeight>
       <AbsoluteXPortrait>522</AbsoluteXPortrait>
       <AbsoluteYPortrait>8</AbsoluteYPortrait>
-      <AbsoluteXLandscape>522</AbsoluteXLandscape>
-      <AbsoluteYLandscape>8</AbsoluteYLandscape>
+      <AbsoluteXLandscape>517</AbsoluteXLandscape>
+      <AbsoluteYLandscape>0</AbsoluteYLandscape>
       <ConvertToAbsolute>false</ConvertToAbsolute>
       <Notes />
-      <AbsoluteX>522</AbsoluteX>
-      <AbsoluteY>8</AbsoluteY>
+      <AbsoluteX>517</AbsoluteX>
+      <AbsoluteY>0</AbsoluteY>
     </GaugeParameter>
     <GaugeParameter>
       <TypeId>11</TypeId>
@@ -3046,11 +3046,11 @@
       <AbsoluteXPortrait>774</AbsoluteXPortrait>
       <AbsoluteYPortrait>16</AbsoluteYPortrait>
       <AbsoluteXLandscape>774</AbsoluteXLandscape>
-      <AbsoluteYLandscape>16</AbsoluteYLandscape>
+      <AbsoluteYLandscape>0</AbsoluteYLandscape>
       <ConvertToAbsolute>false</ConvertToAbsolute>
       <Notes />
       <AbsoluteX>774</AbsoluteX>
-      <AbsoluteY>16</AbsoluteY>
+      <AbsoluteY>0</AbsoluteY>
     </GaugeParameter>
     <GaugeParameter>
       <TypeId>12</TypeId>
@@ -3106,12 +3106,12 @@
       <ScreenHeight>768</ScreenHeight>
       <AbsoluteXPortrait>261</AbsoluteXPortrait>
       <AbsoluteYPortrait>250</AbsoluteYPortrait>
-      <AbsoluteXLandscape>261</AbsoluteXLandscape>
-      <AbsoluteYLandscape>250</AbsoluteYLandscape>
+      <AbsoluteXLandscape>264</AbsoluteXLandscape>
+      <AbsoluteYLandscape>245</AbsoluteYLandscape>
       <ConvertToAbsolute>false</ConvertToAbsolute>
       <Notes />
-      <AbsoluteX>261</AbsoluteX>
-      <AbsoluteY>250</AbsoluteY>
+      <AbsoluteX>264</AbsoluteX>
+      <AbsoluteY>245</AbsoluteY>
     </GaugeParameter>
     <GaugeParameter>
       <TypeId>13</TypeId>
@@ -3288,13 +3288,13 @@
       <ScreenWidth>1024</ScreenWidth>
       <ScreenHeight>768</ScreenHeight>
       <AbsoluteXPortrait>764</AbsoluteXPortrait>
-      <AbsoluteYPortrait>248</AbsoluteYPortrait>
-      <AbsoluteXLandscape>764</AbsoluteXLandscape>
-      <AbsoluteYLandscape>244</AbsoluteYLandscape>
+      <AbsoluteYPortrait>244</AbsoluteYPortrait>
+      <AbsoluteXLandscape>774</AbsoluteXLandscape>
+      <AbsoluteYLandscape>245</AbsoluteYLandscape>
       <ConvertToAbsolute>false</ConvertToAbsolute>
       <Notes />
-      <AbsoluteX>764</AbsoluteX>
-      <AbsoluteY>244</AbsoluteY>
+      <AbsoluteX>774</AbsoluteX>
+      <AbsoluteY>245</AbsoluteY>
     </GaugeParameter>
     <GaugeParameter>
       <TypeId>16</TypeId>
